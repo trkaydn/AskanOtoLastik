@@ -1,0 +1,9 @@
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\AskanOtoLastik.pdb
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\D3DCompiler_47_cor3.dll
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\PenImc_cor3.dll
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\PresentationNative_cor3.dll
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\vcruntime140_cor3.dll
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\wpfgfx_cor3.dll
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\e_sqlite3.dll
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\AskanOtoLastik.Data.pdb
+C:\Users\tarik\OneDrive\Masaüstü\AskanOtoLastik\AskanOtoLastik.exe

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\AskanOtoLastik\AskanOtoLastik.UI\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\FormAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormEditStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormMeasure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

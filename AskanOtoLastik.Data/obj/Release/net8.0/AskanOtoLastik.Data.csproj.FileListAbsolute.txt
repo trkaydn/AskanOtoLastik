@@ -1,0 +1,12 @@
+D:\AskanOtoLastik\AskanOtoLastik.Data\bin\Release\net8.0\AskanOtoLastik.Data.deps.json
+D:\AskanOtoLastik\AskanOtoLastik.Data\bin\Release\net8.0\AskanOtoLastik.Data.dll
+D:\AskanOtoLastik\AskanOtoLastik.Data\bin\Release\net8.0\AskanOtoLastik.Data.pdb
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\AskanOtoLastik.Data.csproj.AssemblyReference.cache
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\AskanOtoLastik.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\AskanOtoLastik.Data.AssemblyInfoInputs.cache
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\AskanOtoLastik.Data.AssemblyInfo.cs
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\AskanOtoLastik.Data.csproj.CoreCompileInputs.cache
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\AskanOtoLastik.Data.dll
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\refint\AskanOtoLastik.Data.dll
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\AskanOtoLastik.Data.pdb
+D:\AskanOtoLastik\AskanOtoLastik.Data\obj\Release\net8.0\ref\AskanOtoLastik.Data.dll
