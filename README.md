@@ -1,4 +1,4 @@
 # AskanOtoLastik
 
-Aşkan Oto Lastik için Mayıs 2024 tarihinde geliştirdiğim Stok Takip Uygulaması.
-.NET 8 WinForms projesidir.
+Stock Tracking Application. Developed for Aşkan Oto Lastik in May 2024. 
+It is a .NET 8 WinForms project.
