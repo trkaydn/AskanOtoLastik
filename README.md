@@ -1,4 +1,5 @@
 # AskanOtoLastik
 
-Stock Tracking Application. Developed for Askan Oto Lastik in May 2024. 
-It is a .NET 8 WinForms project.
+A Stock Management Application.  
+This is a Windows Forms project developed using ASP.NET 8.  
+It was created for Askan Oto Lastik in May 2024.
